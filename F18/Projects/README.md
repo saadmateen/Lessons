@@ -1,9 +1,6 @@
 # Coffee 'N Code Fall 2018 Project List
 
-### Web Development I
-Learn the basics such as HTML, CSS, Javascript, and Bootstrap to get you started on your personal portfolio website.
-
-### Web Development II
+### Web Development
 Code your own blog forum with login and simple post functionalities using Ruby on Rails. Basic knowledge of HTML/CSS/JS is recommended.
 
 ### Machine Learning
