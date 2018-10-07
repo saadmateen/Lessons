@@ -73,7 +73,7 @@ CDN stands for Content Delivery Network and is a server network that, in our cas
 ```
 
 ### jQuery
-The The fastest way to include Bootstrap in this project is to use the CDN provided on the [jQuery website](https://code.jquery.com/). To use their CDN, copy and paste the code below in the head of your HTML document. way to 
+The fastest way to include jQuery in this project is to use the CDN provided on the [jQuery website](https://code.jquery.com/). To use their CDN, copy and paste the code below in the head of your HTML document. way to 
 
 <img src="https://wpnewsify-cdn26.netdna-ssl.com/wp-content/uploads/2018/04/jQuery-794x398.jpg" alt="jQuery logo" width="500px"/>
 
