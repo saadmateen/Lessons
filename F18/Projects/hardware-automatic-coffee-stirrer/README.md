@@ -20,9 +20,9 @@ Build, from scratch, an automatic coffee stirrer powered by your very own Arduin
 | -        | 4      | September 26, 2018  | BoT event!                           |
 | 1        | 5      | October 3, 2018  | Intro to Arduino board. Build a basic LED circuit.        |
 | -        | 6      | October 10, 2018  | Fall Break (No lesson)           |
-| 2        | 7      | October 17, 2018 | Start working with your sensors and make a servo move.                   |
-| 3        | 8      | October 24, 2018 | Create an official circuit schematic of your project. |
-| 4        | 9      | October 31, 2018 | Upgrade your circuit with more features. |
-| 5        | 10     | November 7, 2018  | Testing circuit and design with the box. |
-| 6        | 11     | November 14, 2018 | Putting the finishing touches on the coffee stirrer |
+| 2        | 7      | October 17, 2018 | Create your first complete system with inputs and outputs.         |
+| 3        | 8      | October 24, 2018 | Start working with your sensors and make a servo move.   |
+| 4        | 9      | October 31, 2018 | Create an official circuit schematic of your project. |
+| 5        | 10     | November 7, 2018  | Upgrade your circuit with more features. |
+| 6        | 11     | November 14, 2018 | Testing circuit and design with the stirrer.|
 | 7        | 12     | November 21, 2018 | Potential EoT event |
