@@ -43,11 +43,11 @@ Install Python 3.6.6 [Here](https://www.python.org/downloads/). **DO NOT** insta
 
 To check if python install correctly, type `python3` into your terminal if Mac, or `python -i` if Windows to see if it works. Type in `quit()` to exit the python shell.
 
-Installing Python should've installed PIP, which is a package manager that makes it easy to download python libraries. In terminal, type `pip3 --version` and a message should pop-up. Let me know if you have any problems.
+Installing Python should've installed PIP, which is a package manager that makes it easy to download python libraries. In terminal, type `pip3 --version` (Mac) or `python -m pip --version` (Windows) and a message should pop-up. Let me know if you have any problems.
 
-Next type into terminal `pip3 install praw` and `pip3 install sklearn`. Let me know if you get any errors.
+Next type into terminal `pip3 install praw` and `pip3 install sklearn` (Mac) or `python -m pip install praw` and `python -m pip install sklearn` (Windows). Let me know if you get any errors.
 
-To make sure everything installed properly, type `python3` followed by `import sklearn` and `import praw`. If no 'module not found' errors popup, you should be good :)
+To make sure everything installed properly, type `python3` (Mac) or `python -i` (Windows) followed by `import sklearn` and `import praw`. If no 'module not found' errors popup, you should be good :) 
 
 ## What Exactly IS Machine Learning?
 
@@ -68,4 +68,4 @@ Naive Bayes is one specific type of machine learning model, best suited to class
 
 ## Let's build a Email Spam Detection machine learning model
 
-We want to know if an email is either spam or not spam, so this is a classification problem. Let's solve this using Naive Bayes! 
+We want to know if an email is either spam or not spam, so this is a classification problem. Let's solve this using Naive Bayes! Go to the spam_detection.py file in this folder.
