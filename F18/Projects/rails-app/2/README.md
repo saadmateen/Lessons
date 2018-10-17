@@ -91,6 +91,7 @@ end
 To explore ruby on your own, I recommend the following resources to get more familiar with the language:
 - Codecademy: https://www.codecademy.com/learn/learn-ruby
 - Learn Ruby in 20 minutes: https://www.ruby-lang.org/en/documentation/quickstart/
+- More comprehensive guide to Ruby: https://launchschool.com/books/ruby/read/basics#strings
 
 ## 2. Embedded Ruby
 Embedded Ruby is a special type of ruby that can be injected into documents that aren't ruby files.
