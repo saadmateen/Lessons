@@ -13,7 +13,7 @@ By the end of this lesson, you will have a Python script that lets you get comme
 
 - Building a Naive Bayes classifier to distinguish comments from different threads
 
-## Task: Getting a Python script to interact with Reddit
+## Getting a Python script to interact with Reddit
 
 1. Head over to [Reddit](https://www.reddit.com/) and click "SIGN UP" or "LOG IN" if you already have an account you want to use
 
