@@ -28,7 +28,6 @@ Pick a sensor, and do some googling around to understand how to read it. Then se
 ### OPTION 2 (If you were not here last week)
 Use the code below to get your servo to move. Don't worry about buttons or anything.
 
-
 **Servo Code**
 
 *Did you remember to wire your servo properly? If you didn't, try googling for it!*
