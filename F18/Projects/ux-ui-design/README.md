@@ -18,8 +18,8 @@ This project will allow participants to learn about the UI/UX design process, st
 | 1         | October 3, 2018  | Intro to UI/UX Design + Promptscircuit.        |
 | -         | October 10, 2018  | Fall Break (No lesson)           |
 | 2         | October 17, 2018 | Planning your design: User Personas and Maps         |
-| 3         | October 24, 2018 | Basic Principles of Design + UI Design Systems   |
-| 4         | October 31, 2018 | Figma: Wireframing |
+| 3         | October 24, 2018 | Figma: Wireframing    |
+| 4         | October 31, 2018 | Basic Principles of Design + UI Design Systems |
 | 5         | November 7, 2018  | Figma: High Fidelity Mockups |
 | 6         | November 14, 2018 | Invision: Prototyping |
 | -         | November 21, 2018 | Potential EoT event |
