@@ -18,7 +18,7 @@ As a default project, we will make a Reddit bot that detects cyberbullying on Re
 
 ## Tools and Technologies
 
-[Python 3.7](https://www.python.org/downloads/) as the language to power our project
+[Python 3.6](https://www.python.org/downloads/release/python-366/) as the language to power our project
 
 [Scikit-Learn](http://scikit-learn.org/stable/) for machine learning
 
