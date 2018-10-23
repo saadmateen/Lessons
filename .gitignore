@@ -2,6 +2,7 @@
 *.pyc
 *.swp
 .idea/
+.vscode/
 config
 venv/
 
@@ -11,3 +12,6 @@ venv/
 # Some data files
 S18/Projects/FacialRecognition/Session_3/data.npy
 S18/Projects/FacialRecognition/Session_3/data.tsv
+
+# API Creds
+F18/Projects/ml-reddit-bot/lesson-2/reddit_creds.py

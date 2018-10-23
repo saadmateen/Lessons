@@ -13,7 +13,8 @@ In this lesson, we'll be covering
 These objectives are to be completed by the end of the session. This is meant to keep adding onto your app when you learn new concepts!
 ### Objective 1: Create an About page
 ### Objective 2: Display different titles on our different pages
-### Objective 3: Use a for loop in embedded ruby
+### Objective 3: Add a picture in embedded ruby
+### Objective 4: Use a loop in embedded ruby
 
 ## 1. Ruby
 Ruby is an intuitive programming language that has syntax similar to that of Python if you're familiar with that language. The main differences are in iteration and class definition. 
@@ -90,6 +91,7 @@ end
 To explore ruby on your own, I recommend the following resources to get more familiar with the language:
 - Codecademy: https://www.codecademy.com/learn/learn-ruby
 - Learn Ruby in 20 minutes: https://www.ruby-lang.org/en/documentation/quickstart/
+- More comprehensive guide to Ruby: https://launchschool.com/books/ruby/read/basics#strings
 
 ## 2. Embedded Ruby
 Embedded Ruby is a special type of ruby that can be injected into documents that aren't ruby files.
@@ -144,5 +146,7 @@ Add a picture to your homepage! Try and customize your app the way you want it t
 ```html.erb
 <%= image_tag("my_image.jpg", :alt => "my image") %>
 ```
+### Objective 4:
+Use a for loop in embedded ruby! You can use it however you like, whether to print some numbers or make that picture show up multiple times.
 ### Next Week
 Since next week might be really busy in terms of midterms, the lesson will be fairly straight-forward and voluntary. We'll be covering styling such as css and bootstrap which is not always necessary for an app to work (BUT it is kinda important imo, you want things to look pretty).

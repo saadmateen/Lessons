@@ -5,7 +5,7 @@ CORPUS = [] ## Put email messages here
 y = []      ## Tag emails as spam/not-spam
 
 vectorizer = CountVectorizer()
-X = vectorizer.fit_transform(corpus)
+X = vectorizer.fit_transform(CORPUS)
 
 classifier = MultinomialNB() 
 classifier.fit(X, y)

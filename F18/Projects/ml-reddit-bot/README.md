@@ -18,7 +18,7 @@ As a default project, we will make a Reddit bot that detects cyberbullying on Re
 
 ## Tools and Technologies
 
-[Python 3.7](https://www.python.org/downloads/) as the language to power our project
+[Python 3.6](https://www.python.org/downloads/release/python-366/) as the language to power our project
 
 [Scikit-Learn](http://scikit-learn.org/stable/) for machine learning
 
@@ -29,9 +29,8 @@ As a default project, we will make a Reddit bot that detects cyberbullying on Re
 Lesson # | Date | Description
 --|--|--
 1 | Oct 3 | Learning how to do machine learning using a Naive Bayes Classifier
-2 | Oct 10 | Creating a Reddit Bot and using Python to interact with the internet
-3 | Oct 17 | Putting the machine learning and Reddit Bot together
-4 | TBD | End-to-end machine learning. Training, testing, and applying your model
-5 | TBD | Different types of ML models, Neural Nets, NLP, and more!
-6 | TBD | Cyberbullying Detection **OR** building your own custom features
-7 | TBD | Finishing touches and wrapping up
+2 | Oct 17 | Creating a Reddit Bot using Python and hooking it up to some machine learning
+3 | Oct 24 | End-to-end machine learning. Training, testing, and applying your model
+4 | Oct 31 | Different types of ML models, Neural Nets, NLP, and more!
+5 | TBD | Cyberbullying Detection **OR** building your own custom features
+6 | TBD | Finishing touches and wrapping up

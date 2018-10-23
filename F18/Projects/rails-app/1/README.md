@@ -18,7 +18,7 @@ First, you'll need your development environment set up. Some things you'll need:
 ## 2. Creating a new rails app
 To create a new rails app, change directory (cd) into your specified folder (in this case it's called workspace), run the rails command, and cd into the newly created app folder:
 ```bash
-$ cd ~/workspace
+$ cd ~/FOLDER_WHERE_YOU_WANT_TO_PUT_THE_APPLICATION
 $ rails new YOUR_APP_NAME_HERE
 $ cd YOUR_APP_NAME_HERE/
 ```
@@ -39,9 +39,9 @@ $ git init
 $ git add -A
 $ git commit -m "Initialize repository"
 ```
-Next, create a GitHub repository (fancy word for master folder type thing) and then "push" all your changes:
+Next, create a GitHub repository (fancy word for master folder type thing) and then "push" all your changes. Note: in between this step, you may need to set up your SSH key. Read more here: https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
 ```bash
-$ git remote add origin git@github.com:<username>/YOUR_APP_NAME_HERE.git
+$ git remote add origin git@github.com:YOUR_USERNAME/YOUR_APP_NAME_HERE.git
 $ git push -u origin --all
 ```
 You should see stuff on GitHub now!!! On the website under your profile your repo should now have populated files.
