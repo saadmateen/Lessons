@@ -2,16 +2,32 @@
 # Lesson 3. Styling, Creating Users
 Hey! Welcome to lesson 3. This one's a fun one. We'll be learning about:
 1. Styling
+
 	**Objective 1**: Simplify the given code using SCSS nesting
+	
 2. Create our Users
+
 	2.1. Create our UserController
+	
 	2.2 Generate our User model
+	
 	2.3 Create sample users
+	
 	**Objective 2**: play around with the User object in rails console
+	
 	2.4 Validation
+	
 	**Objective 3**: validate that users have proper names and emails
+	
+	**Objective 4**: extend what needs to be validated and make sure everything is being checked.
+	
 	2.5 User passwords
+	
 	2.6 Add password hashing
+	
+	2.7 Play around with users one more time in rails console
+	
+3. Extra Resources
 
 
 ## 1 Styling
