@@ -222,6 +222,10 @@ Remember in lesson 1 how I talked about the model as part of the MVC-architectur
 ```bash
 rails generate model User name:string email:string
 ```
+Then run the migration:
+```bash
+rails db:migrate
+```
 This creates the following table model for our Users, where the id is uniquely generated and assigned to every user object.
 
 | id | name | email |
