@@ -3,7 +3,7 @@ By the end of this lesson, you will understand how to go from 0 to 100 in solvin
 
 ## Today's Schedule
 
-- Going through the slideshow above
+- Going through the slideshow, link found below in 'Resources'
 
 ## No Coding Today
 
