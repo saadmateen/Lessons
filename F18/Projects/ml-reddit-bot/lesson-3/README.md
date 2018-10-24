@@ -17,7 +17,7 @@ We will go over the software development process during lessons 5 and 6 when we 
 
 - [Awesome-Public-Datasets](https://github.com/awesomedata/awesome-public-datasets)
 
-- Reddit's [/r/datasets](https://www.reddit.com/r/datasets/)
+- [/r/datasets](https://www.reddit.com/r/datasets/)
 
 - [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 
