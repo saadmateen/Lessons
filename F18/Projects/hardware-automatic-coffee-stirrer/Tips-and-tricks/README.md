@@ -11,7 +11,7 @@
 5. Use red or light wires for higher voltages.
 6. Use black or darker wires for lower voltages.
 
-# 1. Tips for debugging Arduino hardware
+# 2. Tips for debugging Arduino hardware
 
 Always start by looking at the least complicated component first!
 
