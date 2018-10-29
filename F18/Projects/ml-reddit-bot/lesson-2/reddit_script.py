@@ -1,6 +1,5 @@
 # Reddit libaries
 import praw
-from reddit_creds import client_id, client_secret
 
 # Machine learning libaries
 from sklearn.feature_extraction.text import CountVectorizer
@@ -8,8 +7,8 @@ from sklearn.naive_bayes import MultinomialNB
 
 # Initalizing Reddit object which we will use to interact with the site
 reddit = praw.Reddit(
-    client_id = client_id,  
-    client_secret = client_secret,
+    client_id = 'Put your client ID here',  
+    client_secret = 'Put your client secret here',
     user_agent = 'reddit_script by /u/spicysideprojects' # Name your user agent whatever you like
 )
 
