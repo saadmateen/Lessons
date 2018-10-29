@@ -73,6 +73,3 @@ x_test = vectorizer.transform(test_corpus)
 # Check how the model preformed
 print(classifier.predict(x_test))
 print(y_test)
-
-
-

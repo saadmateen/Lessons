@@ -3,15 +3,13 @@ By the end of this lesson, you will understand how to go from 0 to 100 in solvin
 
 ## Today's Schedule
 
-- Going through the slideshow, link found below in 'Resources'
+- Going through the slideshow which is found [HERE](https://docs.google.com/presentation/d/1zyiUfL70mWu7iQzaAqUGCTFadsqfEsgeRFfIq9C_dMQ/edit?usp=sharing)
 
 ## No Coding Today
 
-We will go over the software development process during lessons 5 and 6 when we build the cyberbullying detection bot. This lesson and the next will focus on purely the machine learning side of things
+This lesson and the next will focus on purely the machine learning side of things. We will return to software development during lessons 5 and 6 when we build the cyberbullying detection bot.
 
-## Resources
-
-- [My Slideshow](https://docs.google.com/presentation/d/1zyiUfL70mWu7iQzaAqUGCTFadsqfEsgeRFfIq9C_dMQ/edit?usp=sharing)
+## Resources to find Datasets
 
 - [Kaggle](https://www.kaggle.com/datasets)
 
@@ -21,18 +19,18 @@ We will go over the software development process during lessons 5 and 6 when we 
 
 - [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 
+## Python Libraries
 
+- NumPy (Data Processing)
 
+- Pandas (Data Processing)
 
+- NLTK (Feature Extraction from Text)
 
+- SpaCy (Feature Extraction from Text)
 
+- Pillow (Feature Extraction from Images)
 
+- Scikit-Learn (Model Training and Evaluation)
 
-
-
-
-
-
-
-
-
+- Tensorflow (Model Training and Evaluation)
