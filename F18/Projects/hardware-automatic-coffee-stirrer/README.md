@@ -26,3 +26,15 @@ Build, from scratch, an automatic coffee stirrer powered by your very own Arduin
 | 5        | 10     | November 7, 2018  | Upgrade your circuit with more features. |
 | 6        | 11     | November 14, 2018 | Testing circuit and design with the stirrer.|
 | 7        | 12     | November 21, 2018 | Potential EoT event |
+
+## Summary of material covered so far
+Use this section as a resource if you are behind and are looking to catch up!
+
+Don't worry about fully understanding every detail. It is important that you have something working, and once you are caught up you can ask a project lead to go over the theory.
+
+1. Download and install the [Arduino IDE](https://www.arduino.cc/en/Main/Software)
+  - This is where you will write and deploy all of your programs.
+2. Start by wiring an LED, and get it to turn on and off with code.
+  - Use the schematic and the code on [the Arduino site](https://www.arduino.cc/en/tutorial/blink)
+3. Once you have the led flashing. Try to get a servo to move!
+  - Use the schematic and the code on [the Arduino site](https://www.arduino.cc/en/tutorial/sweep)
