@@ -3,9 +3,6 @@
 """
 
 import pandas
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize 
-from nltk.stem.snowball import SnowballStemmer
 
 
 def get_data(path):
@@ -24,10 +21,4 @@ def get_speech(data):
         'offensive': [x[5] for x in data if x[4] == 1],
         'regular': [x[5] for x in data if x[4] == 2]
     }
-
-def clean(corpus):
-    """ Takes in a list of strings and removes stopwords, converts to lowercase,
-        removes non-alphanumeric characters, and stems each word
-    """
-    stop_words = set(stopwords.words('english'))
-    pass
+      

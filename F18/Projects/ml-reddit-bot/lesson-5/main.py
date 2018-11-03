@@ -1,6 +1,8 @@
 from utils import data_preprocess
 
-data = data_preprocess.get_data("./data/raw_data.p")
+data = data_preprocess.get_data("./data/labelled_data.p")
 corpus = data_preprocess.get_speech(data)
 
-print(corpus)
+class HateSpeechDetection:
+    def __init__(self):
+        pass
