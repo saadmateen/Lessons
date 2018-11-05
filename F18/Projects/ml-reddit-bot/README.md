@@ -26,5 +26,5 @@ Lesson # | Date | Description
 2 | Oct 17 | Creating a Reddit Bot using Python and hooking it up to some machine learning
 3 | Oct 24 | End-to-end machine learning. Training, testing, and applying your model
 4 | Oct 31 | Different types of ML models, Neural Nets, NLP, and more!
-5 | TBD | Cyberbullying Detection **OR** building your own custom features
-6 | TBD | Finishing touches and wrapping up
+5 | Nov 7 | Cyberbullying Detection **OR** building your own custom features
+6 | Nov 14 | Finishing touches and wrapping up
