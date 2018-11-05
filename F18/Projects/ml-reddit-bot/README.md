@@ -1,14 +1,8 @@
 # Reddit Bot with Machine Learning Project
-Reddit Bot that delivers a personalized feed using Machine Learning. What "personalized" means, we leave up to you, we give you all the right tools to be creative. This will all be built from scratch using Python!
+We are building a Reddit bot that pulls in new comments from Reddit and tries to detect any instances of cyberbullying using machine learning! This will all be built using Python :)
 
-## Potential Final Results
-As a default project, we will make a Reddit bot that detects cyberbullying on Reddit as it happens. However, some alternative project ideas could be:
-
-- A bot that browses /r/books to give you tailored book recommendations
-
-- A bot that provides a summary, also called a tldr (too long didn't read), of long reddit comments
-
-- A bot that finds you the most unique and insightful reddit posts on /r/AskReddit so that reading Reddit feels productive
+## Need to catch up?
+[Recap of lessons](https://dynalist.io/d/WZCbxjXQUOw0CD0NYiGQjtF_)
 
 ## Learning Objectives
 
