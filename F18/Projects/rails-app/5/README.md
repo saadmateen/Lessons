@@ -19,6 +19,7 @@ Unlike users, which uses a database to store data about each user, cookies are a
 
 ## 5.2 Create a SessionsController
 Using a Rails command, generate a SessionsController and add the proper code to the routes file to create the following routes:
+
 | **HTTP request** | **URL** | **Named route** | **Action** | **Purpose** |
 |------------------|---------|-----------------|------------|-------------|
 | `GET` | /login | `login_path` | `new` | page for a new session (login) |
