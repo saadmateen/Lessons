@@ -38,3 +38,7 @@ Don't worry about fully understanding every detail. It is important that you hav
   - Use the schematic and the code on [the Arduino site](https://www.arduino.cc/en/tutorial/blink)
 3. Once you have the led flashing. Try to get a servo to move!
   - Use the schematic and the code on [the Arduino site](https://www.arduino.cc/en/tutorial/sweep)
+4. Now that your servo is moving. You are going to need something to control it. Pick from one of the three sensors, and use the sample code provided via the link to get it working.
+  - [Ultrasonic sensor](https://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/)
+  - [Keypad](https://www.brainy-bits.com/arduino-joystick-tutorial/)
+  - [Microphone](http://www.circuitbasics.com/how-to-set-up-a-keypad-on-an-arduino/)
