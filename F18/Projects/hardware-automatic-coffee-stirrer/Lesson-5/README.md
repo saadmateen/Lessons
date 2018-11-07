@@ -7,7 +7,7 @@ Today will be a work session. You now have all the skills to build your coffee s
 
 Check out the coffee stirrer!
 
-![Coffee stirrer image]()
+![Coffee stirrer image](https://imgur.com/a/BAmylbF)
 
 ## 2. Other info
 
