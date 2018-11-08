@@ -8,8 +8,7 @@ Welcome! In the first lesson we'll go through the following:
 
 ## 1. Setup
 First, you'll need your development environment set up. Some things you'll need: 
-- Ruby
-- ... + Rails (both: http://railsinstaller.org/en)
+- Ruby and Rails (both: http://railsinstaller.org/en for Windows, Homebrew for Mac)
 - some IDE / text editor of your choice (I recommend Sublime: https://www.sublimetext.com/3)
 - Git (https://git-scm.com/downloads)
 - Git Bash (needed if you have Windows only)
