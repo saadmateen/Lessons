@@ -27,6 +27,7 @@ We're going to add what's known as a `resource` to the routes file just at the v
  resources :users
  ```
  Remember what REST is? Yeah, REpresentational State Transfer! By adding this users resource, we have automatically enabled the following endpoints to be hit (although they shouldn't do anything at the moment):
+ 
 | **HTTP request** | **URL** (added to the base URL) | **Action** | **Named route** | **Purpose**|
 |-----------|-------------|-------|------|-----|
 | `GET` | /users | `index` | `users_path` | page to list all users |
@@ -36,6 +37,7 @@ We're going to add what's known as a `resource` to the routes file just at the v
 | `GET` | /users/1/edit | `edit` | `edit_user_path(user)` | page to edit user with id  `1` |
 | `PATCH` | /users/1 | `update` | `user_path(user)` | update user |
 | `DELETE` | /users/1 | `destroy` | `user_path(user)` | delete user |
+
  Notice, if you run your rails server and try to navigate to localhost, you see an error page. That's no good. We'll have to show our users to the view in the next step.
 ### 1.2 The show.html.erb view
 Unlike the app/views/users/new.html.erb file that was generated when we generated the User controller, we will create a show.html.erb file under the same directory. Go ahead and do that now, and the below line of embedded ruby code. This is just showing the user's name and user's email in the webpage.
