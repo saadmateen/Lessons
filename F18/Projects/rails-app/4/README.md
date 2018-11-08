@@ -39,6 +39,9 @@ We're going to add what's known as a `resource` to the routes file just at the v
 | `DELETE` | /users/1 | `destroy` | `user_path(user)` | delete user |
 
  Notice, if you run your rails server and try to navigate to localhost, you see an error page. That's no good. We'll have to show our users to the view in the next step.
+
+![alt text](https://github.com/UWCoffeeNCode/Lessons/blob/master/F18/Projects/rails-app/4/unknown_action_show.png)
+
 ### 1.2 The show.html.erb view
 Unlike the app/views/users/new.html.erb file that was generated when we generated the User controller, we will create a show.html.erb file under the same directory. Go ahead and do that now, and the below line of embedded ruby code. This is just showing the user's name and user's email in the webpage.
 ```ruby
