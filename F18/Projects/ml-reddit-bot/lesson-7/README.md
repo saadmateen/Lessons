@@ -1,4 +1,4 @@
-# Lesson 7
+# Lesson 7: Debugging and Intro to NLP
 
 This will be the final Coffee N Code lesson for this term. Today I'll be going around helping everyone debug the cyberbullying detection engine they built so they can run it on their computer. It could be a cool project to have on your resume or talk about during an interview so I definitely to get it working for everybody. 
 
