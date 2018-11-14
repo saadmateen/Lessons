@@ -8,6 +8,11 @@ We will build a few different machine learning models and compare them to see wh
 
 Most of today will be spent live coding. I will explain the process as we develop the code. For those of you who are reading this from home, here are some [Slides](https://docs.google.com/presentation/d/1uVqrmI_sfsbPCLZ8EOGanNYvUeCE_e0FgVxZBYvfZSk/edit?usp=sharing) which contain my talking points for this lesson
 
+**Important Notice:** 
+Due to the amount of code we have to go over today, I can only provide a very small amount of help with debugging. If your code isn't running, please follow along the best you can. 
+
+I've allocated a lot of time during next week's meeting to help get the code working for everyone. Alternatively, you can also reach out to me on Slack or stay after the lesson.
+
 ## Data Acquisition
 
 Please download _final_labelled_data.pkl_ from the /data folder, we will be using this to train our machine learning models. I compiled this dataset through manipulating and combining data from a [Sentiment Analysis dataset](https://www.kaggle.com/kazanova/sentiment140) and a [Hate Speech and Offensive Language dataset](https://github.com/t-davidson/hate-speech-and-offensive-language/tree/master/data).
