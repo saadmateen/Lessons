@@ -183,7 +183,7 @@ span.picture {
 Add the correct routes to `routes.rb` to get the following routes in the chart below:
 
 |**HTTP request**|**URL**|**Action**|**Named route**|
-|--|--|--|--|--|--|--|
+|--|--|--|--|
 |`POST` | /microposts | `create` | `microposts_path` |
 |`DELETE` | /microposts/1 | `destroy` | `micropost_path(micropost)` |
 
