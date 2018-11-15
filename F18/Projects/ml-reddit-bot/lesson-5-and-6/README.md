@@ -45,13 +45,3 @@ For those of you who want to take this project further, here is a list of ideas 
 - Creating more detailed custom word vectors for the SVM to train on
 
 - Using NLP techniques like target identification and sentiment analysis to filter out false positives
-
-## Continuing Your ML Journey
-
-Thank you for being here and attending these lessons! I'm very happy so many of you show up weekly to learn about ML. For those of you want to continue learning about ML and maybe eventually work as a Data Scientist or Machine Learning Engineer, I've compiled the following resources.
-
-- [Learn Python the Hard Way](https://learnpythonthehardway.org/). This is a great book that will take you from 0 to competitent enough to pass a technical interview with Python through a variety of lessons and exercises. Unfortunately this resource is not free. While Python is not the only language that can do machine learning, it is the main one.
-
-- [Udacity's Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) online course. Personally, this was how I got my start in machine learning. After learning Python, I'd strongly recommend taking this course.
-
-- Kaggle data science competitions such as [Quora's Insincere Question Classification](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion) challenge would be a very good place to practice and develop your skills after becoming familiar with Python and machine learning fundementals. If this doesn't interest you, working on your own machine learning side project serves the same purpose.
