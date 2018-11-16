@@ -1,4 +1,4 @@
-# Lesson 7
+# Lesson 7: Debugging and Intro to NLP
 
 This will be the final Coffee N Code lesson for this term. Today I'll be going around helping everyone debug the cyberbullying detection engine they built so they can run it on their computer. It could be a cool project to have on your resume or talk about during an interview so I definitely to get it working for everybody. 
 
@@ -22,3 +22,4 @@ Thank you for being here and attending these lessons! I'm very happy so many of 
 - [Udacity's Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) online course. Personally, this was how I got my start in machine learning. After learning Python, I'd strongly recommend taking this course.
 
 - Kaggle data science competitions such as [Quora's Insincere Question Classification](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion) challenge would be a very good place to practice and develop your skills after becoming familiar with Python and machine learning fundementals. If this doesn't interest you, working on your own machine learning side project serves the same purpose.
+
