@@ -28,4 +28,4 @@ Lesson # | Date | Description
 4 | Oct 31 | The different types of ML models and the problems they solve
 5 | Nov 7 | Cyberbullying Detection Part 1
 6 | Nov 14 | Cyberbullying Detection Part 2
-7 | Nov 21 | Debugging, Q&A, and a brief introduction to NLP
+7 | Nov 21 | Finishing touches, debugging, and Q&A
