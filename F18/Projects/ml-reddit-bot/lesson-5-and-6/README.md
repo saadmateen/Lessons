@@ -6,7 +6,7 @@ We will build a few different machine learning models and compare them to see wh
 
 ## Today's Lesson
 
-Most of today will be spent live coding. I will explain the process as we develop the code. For those of you who are reading this from home, here are some [Slides](https://docs.google.com/presentation/d/1uVqrmI_sfsbPCLZ8EOGanNYvUeCE_e0FgVxZBYvfZSk/edit?usp=sharing) which contain my talking points for this lesson
+Most of today will be spent live coding. I will explain the process as we develop the code. For those of you who are reading this from home, here are some [Slides](https://docs.google.com/presentation/d/1JtyxCZgrOoT88ObknnBJi-gtsclQWGEpIebIQSacIjg/edit?usp=sharing) which contain my talking points for this lesson
 
 ## Important Notice
 
