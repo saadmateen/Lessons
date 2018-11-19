@@ -2,7 +2,7 @@
 
 This will be the final Coffee N Code lesson for this term. Today I'll be going around helping everyone debug the cyberbullying detection engine they built so they can run it on their computer. It could be a cool project to have on your resume or talk about during an interview so I definitely to get it working for everybody. 
 
-Following the debugging, I'll go over the final code one more time and help clear up any concepts! We will be going through [this slideshow](https://docs.google.com/presentation/d/1uVqrmI_sfsbPCLZ8EOGanNYvUeCE_e0FgVxZBYvfZSk/edit?usp=sharing) to help visualize and understand the concepts we used. I realize last week's lesson was very rushed, so I want to make sure people understand all aspects of our cyberbullying detection engine. I will also be taking any questions for a Q&A so please ask if you are unsure of anything. Questions can be submitted to the machine-learning-bot channel on slack or just raise your hand.
+Following the debugging, I'll go over the final code one more time and help clear up any concepts! We will be going through [this slideshow](https://docs.google.com/presentation/d/1JtyxCZgrOoT88ObknnBJi-gtsclQWGEpIebIQSacIjg/edit?usp=sharing) to help visualize and understand the concepts we used. I realize last week's lesson was very rushed, so I want to make sure people understand all aspects of our cyberbullying detection engine. I will also be taking any questions for a Q&A so please ask if you are unsure of anything. Questions can be submitted to the machine-learning-bot channel on slack or just raise your hand.
 
 ## Debugging
 
