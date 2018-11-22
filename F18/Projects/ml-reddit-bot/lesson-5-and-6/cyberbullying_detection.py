@@ -86,7 +86,7 @@ class CyberbullyingDetectionEngine:
             if r[0] == 1 and r[1] == 1:
                 tp += 1
             elif r[0] == 1 and r[1] == 0:
-                fp += 0
+                fp += 1
             elif r[0] == 0 and r[1] == 1:
                 fn += 1
             else:
